@@ -1,4 +1,4 @@
-# 3D Vision Coursework 2: 3D Reconstruction ('23-24)
+## 3D Vision Coursework 2: 3D Reconstruction ('23-24)
 
 ## Overview
 
