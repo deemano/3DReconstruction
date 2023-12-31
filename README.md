@@ -8,7 +8,7 @@ This repository is dedicated to the 3D Vision Coursework 2, focusing on 3D Recon
 
 ### 📝 Features in Progress
 
-***1. Collecting Image Data for a Robotics Scene:**
+**1. Collecting Image Data for a Robotics Scene:**
    - Simulating the path of a mobile platform moving through a space.
 
 **2. Data Fusion:**
