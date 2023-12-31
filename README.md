@@ -33,7 +33,7 @@ This is the repository for the 3D Vision Coursework 2 - 3D Reconstruction ('23-2
 
 
 <p align="center">
-  <img src="https://github.com/deemano/3DReconstruction/assets/92692432/560be3cc-9191-47c1-9813-b957f6f82b33" width="30%">
+  <img src="https://github.com/deemano/3DReconstruction/assets/92692432/560be3cc-9191-47c1-9813-b957f6f82b33" width="10%">
 </p>
 
 
