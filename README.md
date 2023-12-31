@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository is dedicated to the 3D Vision Coursework 2, focusing on 3D Reconstruction. This project is focused on developing a 3D reconstruction pipeline using OpenCV in C++. It involves creating a dataset simulating a mobile platform's path and applying sequential SfM and stereovision frameworks. Includes point-cloud processing and visualization techniques.
+This repository is dedicated to the 3D Vision Coursework 2, focusing on developing a 3D reconstruction pipeline using OpenCV in C++. It involves creating a dataset simulating a mobile platform's path and applying sequential SfM and stereovision frameworks. Includes point-cloud processing and visualization techniques.
 
 ---
 ### 📝 Features in Progress
