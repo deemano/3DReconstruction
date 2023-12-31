@@ -8,7 +8,7 @@ This is the repository for the 3D Vision Coursework 2 - 3D Reconstruction ('23-2
 
     1. Collecting Image Data for a Robotics Scene:
     Ex. simulate the path of a mobile platform moving through a space, etc;
-    2. Using Additional Sensors (GPS, IMU, LiDAR, etc);
+    2. Data Fusion - Using Additional Sensors (GPS, IMU, LiDAR, etc);
     3. Developing the 3D Reconstruction:
     -  extract 3D information from the 2D images;
     -  sequential SfM or stereovision;
