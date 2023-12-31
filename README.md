@@ -1,7 +1,7 @@
 This is the repository for the 3D Vision Coursework 2 - 3D Reconstruction ('23-24).
 
 # ===========================================
-   CONSOLE APPLICATION : # 3D Reconstruction
+   CONSOLE APPLICATION # 3D Reconstruction
   ===========================================
   
 ## 📝 Features in progress: 
