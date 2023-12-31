@@ -25,7 +25,7 @@ Focusing on 3D Reconstruction, this repository covers various techniques for tra
 ### 📚 Pipeline View
 
 <p align="center">
-  <img src="https://github.com/deemano/3DReconstruction/assets/92692432/560be3cc-9191-47c1-9813-b957f6f82b33" width="50%">
+  <img src="https://github.com/deemano/3DReconstruction/assets/92692432/560be3cc-9191-47c1-9813-b957f6f82b33" width="15%">
 </p>
 
 *Stay updated with this repository for further information.*
